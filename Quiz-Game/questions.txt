@@ -73,3 +73,78 @@ a) Quick Sort
 b) Bubble Sort
 c) Merge Sort
 d) Insertion Sort
+What is the correct file extension for Python files?
+a) .java
+b) .py
+c) .cpp
+d) .html
+In Python, which symbol is used for comments?
+a) #
+b) //
+c) /*
+d) @
+Which function is used to print output in Python?
+a) echo()
+b) print()
+c) write()
+d) output()
+What is the output of 2 ** 3 in Python?
+a) 6
+b) 8
+c) 9
+d) 16
+What does SQL stand for?
+a) Structured Query Language
+b) Simple Query Language
+c) Standard Query Language
+d) Sequential Query Language
+In Python, what does len() function do?
+a) Finds the sum of elements
+b) Returns the length of an object
+c) Finds the maximum element
+d) Sorts a list
+What is the result of the following code in Python: my_list = [1, 2, 3]print(my_list[1])
+a) 1
+b) 2
+c) 3
+d) IndexError
+Which one of the following is not a valid data type in Python?
+a) str
+b) list
+c) float
+d) array
+What keyword is used to create a function in Python?
+a) func
+b) define
+c) def
+d) function
+What is the purpose of self in Python classes?
+a) It refers to the base class
+b) It represents the instance of the class
+c) It refers to the class methods
+d) It stores class attributes
+What does the term "polymorphism" refer to in Object-Oriented Programming (OOP)?
+a) A method that runs automatically
+b) The ability to create multiple forms of a function
+c) The concept of a class inheriting from another class
+d) A method that returns multiple values
+Which of the following sorting algorithms is the most efficient for a nearly sorted array?
+a) Bubble Sort
+b) Quick Sort
+c) Insertion Sort
+d) Selection Sort
+In Python, what does the with statement simplify?
+a) Function definitions
+b) Exception handling
+c) File handling
+d) Loops
+What is the purpose of a virtual environment in Python?
+a) It speeds up the execution of Python code
+b) It creates isolated environments to avoid dependency conflicts
+c) It allows running Python code on multiple threads
+d) It is a tool for web development
+Which of the following is not a valid HTTP request method?
+a) GET
+b) POST
+c) SEND
+d) DELETE
