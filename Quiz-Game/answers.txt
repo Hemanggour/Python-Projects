@@ -13,3 +13,19 @@ b) To indicate that the variable can be modified by another thread
 c) TCP guarantees delivery of data while UDP does not
 b) Singleton Pattern
 c) Merge Sort
+
+b) .py
+a) #
+b) print()
+b) 8
+a) Structured Query Language
+b) Returns the length of an object
+b) 2
+d) array
+c) def
+b) It represents the instance of the class
+b) The ability to create multiple forms of a function
+c) Insertion Sort
+c) File handling
+b) It creates isolated environments to avoid dependency conflicts
+c) SEND
