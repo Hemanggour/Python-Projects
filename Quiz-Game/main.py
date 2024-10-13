@@ -47,7 +47,8 @@ class Quiz():
                 else:
                     print("Invalid Option!!\n")
                     count -= 5
-        print(f"{name} Your Result:\nCorrect: {correct}\nWrong: {wrong}\nAccuracy: {(((correct)/(wrong + correct)) * 100)}%")
+        accuracy = (((correct)/(wrong + correct)) * 100)
+        print(f"{name} Your Result:\nCorrect: {correct}\nWrong: {wrong}\nAccuracy: {accuracy:.2f}%")
 
 if __name__ == '__main__':
     game = Quiz()
