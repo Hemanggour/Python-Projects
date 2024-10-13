@@ -1,0 +1,15 @@
+b) Hyper Text Markup Language
+b) var_one = 10
+b) 11
+c) Output a value from the function
+b) .button
+a) for (int i = 0; i < 10; i++)
+b) var is function-scoped and let is block-scoped
+b) A function calling itself
+a) SELECT
+c) Arrays have fixed size while linked lists are dynamic
+b) O(log n)
+b) To indicate that the variable can be modified by another thread
+c) TCP guarantees delivery of data while UDP does not
+b) Singleton Pattern
+c) Merge Sort

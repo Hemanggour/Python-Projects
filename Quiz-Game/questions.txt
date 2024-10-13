@@ -1,0 +1,75 @@
+What does HTML stand for?
+a) Hyperlinks and Text Markup Language
+b) Hyper Text Markup Language
+c) Home Tool Markup Language
+d) Hyper Tool Markup Language
+Which of the following is a correct variable declaration in Python?
+a) var 1 = 10
+b) var_one = 10
+c) 1_var = 10
+d) one_var = 10
+What is the output of 5 + 3 * 2 in Python?
+a) 16
+b) 11
+c) 21
+d) 13
+What is the purpose of the return statement in a function?
+a) Exit the program
+b) Return to the beginning of the function
+c) Output a value from the function
+d) Print a value
+In CSS, how do you select an element with the class "button"?
+a) #button
+b) .button
+c) button
+d) @button
+Which of the following is a correct for loop in C++?
+a) for (int i = 0; i < 10; i++)
+b) for i = 0 to 10
+c) loop (i in 0..10)
+d) for (i: range(10))
+In JavaScript, what is the difference between let and var?
+a) let is function-scoped and var is block-scoped
+b) var is function-scoped and let is block-scoped
+c) Both have the same scope
+d) let is global-scoped
+What is recursion in programming?
+a) A function calling another function
+b) A function calling itself
+c) A loop inside a function
+d) Reusing the same function
+Which SQL keyword is used to retrieve data from a database?
+a) SELECT
+b) FETCH
+c) GET
+d) RETRIEVE
+What is the main difference between an array and a linked list?
+a) Arrays can dynamically grow in size
+b) Linked lists store elements in contiguous memory locations
+c) Arrays have fixed size, while linked lists are dynamic
+d) Linked lists use indexing for access
+What is the time complexity of binary search?
+a) O(n)
+b) O(log n)
+c) O(n log n)
+d) O(1)
+What is the purpose of the volatile keyword in C++?
+a) To optimize the variable’s access
+b) To indicate that the variable can be modified by another thread
+c) To prevent the variable from being modified
+d) To define a constant variable
+What is the difference between TCP and UDP protocols?
+a) TCP is faster than UDP
+b) TCP is connectionless, while UDP is connection-oriented
+c) TCP guarantees delivery of data, while UDP does not
+d) UDP guarantees delivery of data, while TCP does not
+What design pattern is used to restrict the instantiation of a class to one object in OOP?
+a) Factory Pattern
+b) Singleton Pattern
+c) Observer Pattern
+d) Adapter Pattern
+Which sorting algorithm has the best average-case time complexity?
+a) Quick Sort
+b) Bubble Sort
+c) Merge Sort
+d) Insertion Sort
