@@ -13,7 +13,6 @@ b) To indicate that the variable can be modified by another thread
 c) TCP guarantees delivery of data while UDP does not
 b) Singleton Pattern
 c) Merge Sort
-
 b) .py
 a) #
 b) print()
