@@ -42,7 +42,7 @@ class Quiz():
                 elif (answer == 'a') or (answer == 'b') or (answer == 'c') or (answer == 'd'):
                     print("Wrong Answer!!")
                     wrong += 1
-                    print(f"Answer: {self.ans[ansInd]}")
+                    print(f"Answer: {self.ans[ansInd]}\n")
                     ansInd += 1
                 else:
                     print("Invalid Option!!\n")
