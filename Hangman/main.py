@@ -59,7 +59,7 @@ class Game:
         word = self.__getWord()
         self.__insertLineInGuessedWord(len(word))
         while (self.chances and (''.join(self.guessedWord) != word)):
-            print(''.join(self.guessedWord)+"\n")
+            print(' '.join(self.guessedWord)+"\n")
             tempWord = self.__getCharacter()
             if tempWord and (tempWord not in word):
                 self.chances -= 1
@@ -76,7 +76,7 @@ class Game:
         if not self.chances:
             print(f"{self.name} Lost!!\nWord: {word}")
         else:
-            print(f"{word}\n\n{self.name} Won!!")
+            print(f"{' '.join(self.guessedWord)}\n\n{self.name} Won!!")
 
 if __name__ == "__main__":
     game = Game()
